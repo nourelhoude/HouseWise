@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Ekrili</string>
+    <string-array name="states">
+        <item>Tunis</item>
+        <item>Ben arous</item>
+        <item>Ariana</item>
+        <item>Manouba</item>
+        <item>Beja</item>
+        <item>Nabeul</item>
+        <item>Bizert</item>
+        <item>Zaghouan</item>
+        <item>Sidi Bouzid</item>
+        <item>Sfax</item>
+        <item>Gabès</item>
+        <item>Jendouba</item>
+        <item>Tozeur</item>
+        <item>Tataouine</item>
+        <item>Mahdia</item>
+        <item>Siliana</item>
+        <item>Monastir</item>
+        <item>Médenine</item>
+        <item>Kairouan</item>
+        <item>Kef</item>
+        <item>Jerba></item>
+        <item>Kasserine</item>
+        <item>Sousse</item>
+        <item>Gafsa</item>
+        <item>Gbeli</item>
+    </string-array>
+
+    <string-array name="iset">
+        <item>Iset Tunis</item>
+        <item>Iset Ben arous</item>
+        <item>Iset Ariana</item>
+        <item>Iset Manouba</item>
+        <item>Iset Beja</item>
+        <item>Iset Nabeul</item>
+        <item>Iset Bizert</item>
+        <item>Iset Zaghouan</item>
+        <item>Iset Sidi Bouzid</item>
+        <item>Iset Sfax</item>
+        <item>Iset Gabès</item>
+        <item>Iset Jendouba</item>
+        <item>Iset Tozeur</item>
+        <item>Iset Tataouine</item>
+        <item>Iset Mahdia</item>
+        <item>Iset Siliana</item>
+        <item>Iset Monastir</item>
+        <item>Iset Médenine</item>
+        <item>Iset Kairouan</item>
+        <item>Iset Kef</item>
+        <item>Iset Jerba></item>
+        <item>Iset Kasserine</item>
+        <item>Iset Sousse</item>
+        <item>Iset Gafsa</item>
+        <item>Iset Gbeli</item>
+    </string-array>
+</resources>

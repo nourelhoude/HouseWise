@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Custom colors -->
+    <color name="custom_green">#00FF00</color>
+    <color name="custom_red">#FF0000</color>
+    <color name="custom_blue">#0000FF</color>
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ekrili" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Ekrili" parent="Base.Theme.Ekrili" />
+
+</resources>
